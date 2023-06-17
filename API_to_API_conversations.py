@@ -3,7 +3,10 @@ import os
 import json
 import time
 
-apiKey = os.environ['OpenAIKey']
+from dotenv import dotenv_values
+
+env_values = dotenv_values(".env")
+apiKey = env_values["OpenAIKey"]
 
 # ANSI escape sequences for text coloring
 PINK = '\033[95m'
