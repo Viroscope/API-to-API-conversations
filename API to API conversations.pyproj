@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7c790a1a-0a63-4d2e-bffa-9d441125fee3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>API_to_API_conversations.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
